@@ -14,3 +14,6 @@ git checkout -b feat/thaigo/criacnn2d  # branche criacao
 git checkout -b fix/thaigo/criacnn2d   # branche correcao
 git checkout -b doc/thiago/documentacao # branche documentacao
  
+=======
+
+teste
